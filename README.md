@@ -1,5 +1,14 @@
 # Haskell_In_Class
 
+## Opening up for your own project
+Once logged in to GitHub, in the top right press Fork.
+
+Continue through to make your own copy of this repo.
+
+Now in your personal copy of this repo, click "Code" in the topright, then "Codespaces", then click + or "New Codespace".
+
+Now you're in a codespace, follow the below instructions.
+
 ## Installation/Preparation
 Run `./install.sh` to get the ghci compiler ready.
 This takes around 5 minutes to complete on first run, from then on it takes no time at all to run.
@@ -16,3 +25,13 @@ To run a file, enter `ghci filename.hs`
 To exit the console, enter `CTRL+D`
 
 You may want to create a `.hs` file to store your functions in.
+
+## Optional/Nice to have
+
+On the left, click on the 4 squares (extensions)
+
+Search for Haskell
+
+Then install the Haskell extension. This makes Haskell nicer to work with.
+
+It should "just work", but if not, you may need to tell it we're using the GHCup compiler, and it can be found on bash. But you shouldn't need to do this.
