@@ -10,6 +10,9 @@ This takes around 5 minutes to complete on first run, from then on it takes no t
 
 ## Using Haskell
 To access the console, enter ghci
+
 To run a file, enter `ghci filename.hs`
+
 To exit the console, enter `CTRL+D`
-You may need to create a `.hs` file.
+
+You may want to create a `.hs` file to store your functions in.
