@@ -35,3 +35,9 @@ Search for Haskell
 Then install the Haskell extension. This makes Haskell nicer to work with.
 
 It should "just work", but if not, you may need to tell it we're using the GHCup compiler, and it can be found on bash. But you shouldn't need to do this.
+
+## Troubleshooting
+If running `ghci` fails, you should run:
+`. /home/codespace/.ghcup/env`
+
+This tells codespaces where it's installed, so it should then work.
