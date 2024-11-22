@@ -1,5 +1,1 @@
-double x = x * 2
-doubleSum x y = double x + double y
-
-mean xs = sum xs `div` length xs
-
+deleteMe = putStrLn "Hello! Add your code in this file. Feel free to delete this line!"

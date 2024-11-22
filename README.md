@@ -5,7 +5,7 @@ Once logged in to GitHub, in the top right press Fork.
 
 Continue through to make your own copy of this repo.
 
-Now in your personal copy of this repo, click "Code" in the topright, then "Codespaces", then click + or "New Codespace".
+Now in your personal copy of this repo, click "Code" in the top right, then "Codespaces", then click + or "New Codespace".
 
 Now you're in a codespace, follow the below instructions.
 
