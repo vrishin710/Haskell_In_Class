@@ -17,6 +17,8 @@ This takes around 5 minutes to complete on first run, from then on it takes no t
 - If it looks like it's not doing anything, you may need to press ENTER to proceed.
 - Once it's finished, you'll see a smiley face and a lot of green text.
 
+NOTE: When coming back to this, you don't need to create another new codespace! Simply click on the name of the Codespace you created before - it's likely to be the only one in the list.
+
 ## Using Haskell
 To access the console, enter ghci
 
